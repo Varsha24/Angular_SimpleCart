@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Dodecahedron",
+        "price": 1107,
+        "description": "Some gems have hide enqualities beyond their luster,beyond their shine...Dodecahedron is one of them.",
+        "canPurchase": "true",
+        "soldOut": "true",
+        "shine": 8,
+        "rarity": 7,
+        "color": "#CCC",
+        "faces": 14,
+        "images": [
+            "images/thmb1.jpg",
+            "images/thmb2.jpg",
+            "images/thmb3.jpg"
+        ]
+    },
+    {
+        "name": "PentagonalGem",
+        "price": 1005.95,
+        "description": "Some gems have hide enqualities beyond their luster,beyond theirshine...Dodecahedron is one of them.",
+        "canPurchase": "true",
+        "soldOut": "false",
+        "shine": 12,
+        "rarity": 9,
+        "color": "#CCC",
+        "faces": 18,
+        "images": [
+            "images/thmb4.jpg",
+            "images/thmb6.jpg",
+            "images/thmb5.jpg"
+        ]
+    },
+    {
+        "name": "Bloodstone",
+        "price": 2007.95,
+        "description": "Origin of the Bloodstone is unknown,hence its low value.It has a very high shine and 12 sides,however.",
+        "canPurchase": "true",
+        "soldOut": "false",
+        "shine": 5,
+        "rarity": 6,
+        "color": "#EEE",
+        "faces": 12,
+        "images": [
+            "images/thmb7.jpg",
+            "images/thmb8.jpg",
+            "images/thmb9.jpg"
+        ]
+    },
+    {
+        "name": "Zircon",
+        "price": 2316.95,
+        "description": "Zirconisourmostcovetedandsoughtaftergem.You will pay much tobe the proud owner of this gorgeous and high shine gem.",
+        "canPurchase": "true",
+        "soldOut": "false",
+        "shine": 17,
+        "rarity": 2,
+        "color": "#000",
+        "faces": 6,
+        "images": [
+            "images/thmb10.jpg",
+            "images/thmb11.jpg",
+            "images/thmb12.jpg"
+        ]
+    }
+]
